@@ -120,24 +120,18 @@ My work includes planning, developing, and delivering complete web solutions, al
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurodesouza&theme=dracula&hide_border=false" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX011&theme=dracula" alt="github trophies" />
 
-  <br />
+  <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpectraX011&theme=dracula&hide_border=false" alt="streak graph" />
 
----
+  <br/><br/>
 
-## 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph-dark.svg">
-</picture>
-
-<div align="center">
-<img src="https://media.giphy.com/media/8ocnwA1TT24Ss/giphy.gif" width="400" alt="Pac-Man gif"/>
+  <img src="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/github-contribution-grid-snake.svg" alt="github snake" />
 </div>
