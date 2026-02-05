@@ -1,65 +1,65 @@
-Hey 👋 What's Up?!
+# Hey 👋 What's Up?!
 
-I am a Freelance Web Developer passionate about creating secure, functional, and user-friendly web systems. I design and build websites and web applications for clients, helping them improve their business online. My work includes planning, developing, and delivering complete web solutions, always with clear communication and collaboration to meet client needs.
+I am a Freelance Web Developer passionate about creating secure, functional, and user‑friendly web systems.  
+I design and build websites and web applications for clients, helping them improve their business online.  
+My work includes planning, developing, and delivering complete web solutions, always with clear communication and collaboration to meet client needs.
 
-Work Experience
+---
 
-Freelancer — Web Dev
+## 💼 Work Experience
 
-I make web systems using PHP, Java, Python, HTML, CSS, and JavaScript.
-I use MySQL to build and manage databases for these systems.
-I also write guides, reports, and presentations to help clients understand the work.
-I add security features to keep client systems safe.
-I work with clients closely to give them web solutions that are easy to use.
-Right now, my main tools are PHP (Laravel), HTML, CSS, JavaScript, and MySQL.
-Student Assistant — BAC & Planning Engineering
-Assisted with planning and engineering tasks in a collaborative team environment.
-Prepared and organized documents to support daily operations.
-Contributed part‑time (2 hours per day) while balancing academic and professional responsibilities.
+**Freelancer — Web Dev**  
+- I make web systems using PHP, Java, Python, HTML5, CSS, and JavaScript.  
+- I use MySQL to build and manage databases.  
+- I also write guides, reports, and presentations.  
+- I add security features to keep client systems safe.  
+- Current main tools: Laravel, HTML, CSS, JavaScript, MySQL.
 
-Competitions & Achievements
+**Student Assistant — BAC & Planning Engineering**  
+- Assisted with planning and engineering tasks.  
+- Prepared and organized documents.  
+- Contributed part‑time while balancing academic and professional responsibilities.
 
-Hack4Gov DICT Competition – Placed Top 7 (Team InnovatechNormalista)
-JTG Cybersecurity Challenge – Achieved Top 3 ranking (Team LeyteVisionalista)
-DICT Final Fetching Challenge – Finalist
+---
 
-Skills
+## 🏆 Competitions & Achievements
+- Hack4Gov DICT Competition – Placed Top 7  
+- JTG Cybersecurity Challenge – Top 3  
+- DICT Final Fetching Challenge – Finalist  
 
-Front‑End Development
+---
 
-Java (JFrame) – Desktop application windows and GUI components
-HTML, CSS, JavaScript – Web interfaces and styling
-VS Code – IDE for web development
-NetBeans – IDE for Java desktop projects
+## 🛠️ Skills
 
-Back‑End Development
+**Front‑End Development**  
+- Java (JFrame) – Desktop GUI  
+- HTML, CSS, JavaScript – Web interfaces  
+- VS Code – IDE  
+- NetBeans – IDE  
 
-Java (NetBeans, Ant/Maven) – Desktop applications with JFrame UI
-CRUD systems (Create, Read, Update, Delete) for managing data
-MySQL (XAMPP server) – Database design, queries, optimization
-Python (VS Code, PyCharm) – CRUD systems and automation tools
-PHP/Laravel (MVC architecture) – Web‑based systems with Composer integration
+**Back‑End Development**  
+- Java (NetBeans, Ant/Maven) – CRUD systems  
+- MySQL – Database design  
+- Python – Automation  
+- PHP/Laravel – Web systems  
 
-Cisco Networking
+**🌐 Cisco Networking**  
+- IP addressing, routing, switching  
+- Cisco Packet Tracer  
+- LAN/WAN troubleshooting  
 
-Basic networking concepts (IP addressing, routing, switching)
-Hands‑on practice with Cisco Packet Tracer for network simulation
-Understanding of LAN/WAN setups and troubleshooting
+**🛡️ Ethical Hacking**  
+- Penetration testing fundamentals  
+- Kali Linux tools (Nmap, Wireshark, Metasploit)  
 
-Ethical Hacking
-
-Knowledge of penetration testing fundamentals
-Familiarity with Kali Linux tools (Nmap, Wireshark, Metasploit)
-
-Other Skills
-
-Figma – prototyping
-Adobe Photoshop – Image editing
-Video Editing – Basic to advanced workflows
-Technical Documentation & Presentations – Reports, PPT, professional documents
-System Architecture & Project Management
-Workflow Optimization & Iterative Design Refinement
-Database/System Planning – Flow charts using Draw.io
+**🎨 Other Skills**  
+- Figma  
+- Photoshop  
+- Video Editing  
+- Documentation  
+- System Architecture  
+- Workflow Optimization  
+- Database Planning
 
 ###
 
