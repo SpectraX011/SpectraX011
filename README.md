@@ -135,5 +135,5 @@ My work includes planning, developing, and delivering complete web solutions, al
 </picture>
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/17188013/29246342-96074c7a-7fab-11e7-8c27-3b0aefb584f4.gif](https://media.giphy.com/media/8ocnwA1TT24Ss/giphy.gif)" alt="Pac-Man gif" width="400"/>
+ <img src="https://media.giphy.com/media/8ocnwA1TT24Ss/giphy.gif" width="400" alt="Pac-Man gif"/>
 </div>
