@@ -95,15 +95,26 @@ My work includes planning, developing, and delivering complete web solutions, al
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dan-dev-7abb75232/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:dandevjr@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
   </a>
   <a href="https://www.freelancer.com/u/danielp531?frm=danielp531&sb=t">
-    <img src="https://img.shields.io/static/v1?message=Freelancer&logo=freelancer&color=29B2FE&style=for-the-badge" height="25" alt="freelancer logo" />
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="25" alt="freelancer logo" />
+  </a>
+  <a href="https://www.facebook.com/null.r00t">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-acme--jobseeker-contributions-webapp">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="25" alt="indeed logo" />
+  </a>
+  <a href="https://www.instagram.com/l3tdan.code/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo" />
   </a>
 </div>
 
