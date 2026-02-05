@@ -108,6 +108,10 @@ Database/System Planning – Flow charts using Draw.io
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph.svg">
 </picture>
 
+with:
+  target_branch: output
+  build_dir: output
+
 
 
 ###
