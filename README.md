@@ -128,12 +128,12 @@ My work includes planning, developing, and delivering complete web solutions, al
 
 ---
 
-## 🎮 Fun Section
+## 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/17188013/29246342-96074c7a-7fab-11e7-8c27-3b0aefb584f4.gif" alt="Pac-Man gif" width="400"/>
+  <img src="[https://user-images.githubusercontent.com/17188013/29246342-96074c7a-7fab-11e7-8c27-3b0aefb584f4.gif](https://media.giphy.com/media/8ocnwA1TT24Ss/giphy.gif)" alt="Pac-Man gif" width="400"/>
 </div>
