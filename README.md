@@ -53,7 +53,7 @@ Familiarity with Kali Linux tools (Nmap, Wireshark, Metasploit)
 
 Other Skills
 
-Figma – prototyping 
+Figma – prototyping
 Adobe Photoshop – Image editing
 Video Editing – Basic to advanced workflows
 Technical Documentation & Presentations – Reports, PPT, professional documents
@@ -96,22 +96,16 @@ Database/System Planning – Flow charts using Draw.io
 </div>
 
 ###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SpectraX011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX011&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/>
+
 </div>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph.svg">
-</picture>
-
-with:
-  target_branch: output
-  build_dir: output
-
-
+ 
 
 ###
