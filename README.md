@@ -102,7 +102,6 @@ Database/System Planning – Flow charts using Draw.io
 </div>
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/pacman-contribution-graph.svg">
