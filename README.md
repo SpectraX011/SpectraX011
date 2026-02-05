@@ -1,127 +1,67 @@
-# Hi, I'm Daniel S. Prudenciado.
-
-I am a Freelance Web Developer passionate about creating secure, functional, and user‑friendly web systems.  
-I design and build websites and web applications for clients, helping them improve their business online.  
-My work includes planning, developing, and delivering complete web solutions, always with clear communication and collaboration to meet client needs.
-
----
-
-## 💼 Work Experience
-
-**Freelancer — Web Dev**
-
-- I make web systems using PHP, Java, Python, HTML5, CSS, and JavaScript.
-- I use MySQL to build and manage databases.
-- I also write guides, reports, and presentations.
-- I add security features to keep client systems safe.
-- Current main tools: Laravel, HTML, CSS, JavaScript, MySQL.
-
-**Student Assistant — BAC & Planning Engineering**
-
-- Assisted with planning and engineering tasks.
-- Prepared and organized documents.
-- Contributed part‑time while balancing academic and professional responsibilities.
-
----
-
-## 🏆 Competitions & Achievements
-
-- Hack4Gov DICT Competition – Placed Top 7
-- JTG Cybersecurity Challenge – Top 3
-- DICT Final Fetching Challenge – Finalist
-
----
-
-## 🛠️ Skills
-
-**Front‑End Development**
-
-- Java (JFrame) – Desktop GUI
-- HTML, CSS, JavaScript – Web interfaces
-- VS Code – IDE
-- NetBeans – IDE
-
-**Back‑End Development**
-
-- Java (NetBeans, Ant/Maven) – CRUD systems
-- MySQL – Database design
-- Python – Automation
-- PHP/Laravel – Web systems
-
-**🌐 Cisco Networking**
-
-- IP addressing, routing, switching
-- Cisco Packet Tracer
-- LAN/WAN troubleshooting
-
-**🛡️ Ethical Hacking**
-
-- Penetration testing fundamentals
-- Kali Linux tools (Nmap, Wireshark, Metasploit)
-
-**🎨 Other Skills**
-
-- Figma
-- Photoshop
-- Video Editing
-- Documentation
-- System Architecture
-- Workflow Optimization
-- Database Planning
-
----
-
-## 🚀 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+
+# Hi, I'm Daniel S. Prudenciado 👋
+###  Freelance Web Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Building+Secure+Web+Systems;Laravel+%2B+MySQL+Expert;Full-Stack+Solutions;Top+7+Hack4Gov+Finalist" alt="Typing SVG" />
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-dev-7abb75232/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/danielp531)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dandevjr@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/null.r00t)
+
+---
+
+</div>
+
+## 📖 About Me
+I am a Freelance Web Developer passionate about creating secure, functional, and user‑friendly web systems. I design and build websites and web applications for clients, helping them improve their business online. My work focuses on planning, developing, and delivering complete web solutions with a high standard for security and performance.
+
+---
+
+## 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,py,mysql,html,css,js" />
 </div>
 
 ---
 
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dan-dev-7abb75232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:dandevjr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.freelancer.com/u/danielp531?frm=danielp531&sb=t">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="25" alt="freelancer logo" />
-  </a>
-  <a href="https://www.facebook.com/null.r00t">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo" />
-  </a>
-  <a href="https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-acme--jobseeker-contributions-webapp">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="25" alt="indeed logo" />
-  </a>
-  <a href="https://www.instagram.com/l3tdan.code/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo" />
-  </a>
-</div>
+## 💼 Experience & Achievements
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Work Experience</h3>
+      <ul>
+        <li><b>Freelancer — Web Dev:</b> Expertise in Laravel, PHP, Python, and Java.</li>
+        <li><b>Security:</b> Specialized in integrating security features to protect client systems.</li>
+        <li><b>Workflow:</b> Optimizing database planning and system architecture for scalability.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Top Achievements</h3>
+      <ul>
+        <li><b>Hack4Gov DICT:</b> Placed Top 7</li>
+        <li><b>JTG Cybersecurity:</b> Top 3</li>
+        <li><b>DICT Final Fetching:</b> Finalist</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 🛡️ Core Specializations
+- **Back-End Mastery:** Building robust CRUD systems and automated workflows using Java and PHP.
+- **Database Architecture:** Expert MySQL design focused on data integrity and high-performance querying.
+- **System Security:** Implementing penetration testing fundamentals to ensure web application resilience.
 
-## 📊 GitHub Contribution
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
 
   <img src="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/github-contribution-grid-snake.svg" alt="github snake" />
 </div>
