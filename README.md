@@ -121,11 +121,10 @@ My work includes planning, developing, and delivering complete web solutions, al
 ---
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX011&theme=dracula" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX011&theme=dracula&no-bg=true&no-frame=true" alt="github trophies" />
 
   <br/><br/>
 
