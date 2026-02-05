@@ -121,16 +121,7 @@ My work includes planning, developing, and delivering complete web solutions, al
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX011&theme=dracula&no-bg=true&no-frame=true" alt="github trophies" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpectraX011&theme=dracula&hide_border=false" alt="streak graph" />
-
-  <br/><br/>
+## 📊 GitHub Contribution
 
   <img src="https://raw.githubusercontent.com/SpectraX011/SpectraX011/output/github-contribution-grid-snake.svg" alt="github snake" />
 </div>
