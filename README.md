@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio!
+Hey 👋 What's Up?!
 
 I am a Freelance Web Developer passionate about creating secure, functional, and user-friendly web systems. I design and build websites and web applications for clients, helping them improve their business online. My work includes planning, developing, and delivering complete web solutions, always with clear communication and collaboration to meet client needs.
 
