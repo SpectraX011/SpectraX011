@@ -1,4 +1,4 @@
-# Hey 👋 What's Up?!
+# Hi, I'm Daniel S. Prudenciado.
 
 I am a Freelance Web Developer passionate about creating secure, functional, and user‑friendly web systems.  
 I design and build websites and web applications for clients, helping them improve their business online.  
@@ -123,7 +123,11 @@ My work includes planning, developing, and delivering complete web solutions, al
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SpectraX011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurodesouza&theme=dracula&hide_border=false" alt="streak graph" />
+
+  <br />
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" />
 </div>
 
 ---
