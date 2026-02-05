@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daniel S. Prudenciado 👋
+# Hi, I'm Daniel S. Prudenciado 
 ###  Freelance Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Building+Secure+Web+Systems;Laravel+%2B+MySQL+Expert;Full-Stack+Solutions;Top+7+Hack4Gov+Finalist" alt="Typing SVG" />
@@ -16,23 +16,23 @@
 
 </div>
 
-## 📖 About Me
+##  About Me
 I am a Freelance Web Developer passionate about creating secure, functional, and user‑friendly web systems. I design and build websites and web applications for clients, helping them improve their business online. My work focuses on planning, developing, and delivering complete web solutions with a high standard for security and performance.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,java,py,mysql,html,css,js" />
 </div>
 
 ---
 
-## 💼 Experience & Achievements
+##  Experience & Achievements
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Work Experience</h3>
+      <h3> Work Experience</h3>
       <ul>
         <li><b>Freelancer — Web Dev:</b> Expertise in Laravel, PHP, Python, and Java.</li>
         <li><b>Security:</b> Specialized in integrating security features to protect client systems.</li>
@@ -40,7 +40,7 @@ I am a Freelance Web Developer passionate about creating secure, functional, and
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏆 Top Achievements</h3>
+      <h3> Top Achievements</h3>
       <ul>
         <li><b>Hack4Gov DICT:</b> Placed Top 7</li>
         <li><b>JTG Cybersecurity:</b> Top 3</li>
@@ -52,14 +52,14 @@ I am a Freelance Web Developer passionate about creating secure, functional, and
 
 ---
 
-## 🛡️ Core Specializations
+##  Core Specializations
 - **Back-End Mastery:** Building robust CRUD systems and automated workflows using Java and PHP.
 - **Database Architecture:** Expert MySQL design focused on data integrity and high-performance querying.
 - **System Security:** Implementing penetration testing fundamentals to ensure web application resilience.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Contribute
 <div align="center">
 
 
