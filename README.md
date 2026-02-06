@@ -3,7 +3,7 @@
 # Hi, I'm Daniel S. Prudenciado 
 ###  Freelance Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Building+Secure+Web+Systems;Laravel+%2B+MySQL+Expert;Full-Stack+Solutions;Top+7+Hack4Gov+Finalist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Building+Secure+Web+Systems;Laravel+%2B+MySQL;Full-Stack+Solutions;Top+7+Hack4Gov+Finalist" alt="Typing SVG" />
 
 ---
 
