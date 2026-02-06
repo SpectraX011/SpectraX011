@@ -59,10 +59,17 @@ I am a Freelance Web Developer passionate about creating secure, functional, and
 
 ---
 
-##  Core Specializations
-- **Back-End Mastery:** Building robust CRUD systems and automated workflows using Java and PHP.
-- **Database Architecture:** Expert MySQL design focused on data integrity and high-performance querying.
-- **System Security:** Implementing penetration testing fundamentals to ensure web application resilience.
+<div align="center">
+
+###  Core Specializations
+
+**Web Development** Building functional CRUD systems and automated workflows using **PHP, Laravel, and MySQL**.
+
+**Database Design** Creating organized and efficient database structures with a focus on data integrity.
+
+**System Security** Applying security fundamentals to help protect and make web applications more resilient.
+
+</div>
 
 ---
 
