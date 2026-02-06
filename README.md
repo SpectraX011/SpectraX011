@@ -3,9 +3,16 @@
 # Hi, I'm Daniel S. Prudenciado 
 ###  Freelance Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Building+Secure+Web+Systems;Laravel+%2B+MySQL;Full-Stack+Solutions;Top+7+Hack4Gov+Finalist" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Building+Secure+Web+Systems;PHP+%2F+Laravel+%2F+MySQL;Top+3+-+JTG+Cyber+Security;Top+7+-+Hack4Gov;DICT+Final+Fetching+Finalist" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <i>Learning daily to build secure web systems. Helping businesses grow through code.</i><br><br>
+  "The only way to learn a new programming language is by writing programs in it."<br>
+  <b>— Dennis Ritchie</b>
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-dev-7abb75232/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/danielp531)
